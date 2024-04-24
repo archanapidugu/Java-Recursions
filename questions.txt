@@ -1,0 +1,9 @@
+1. print numbers from 5 to 1
+2. We have cats and each cat has two eyes. Find the total number of eyes if the number of cats is given.
+3. Find the power when base and power are given.
+4. Find factorial
+5. Fibonacci series: 0,1,1,2,3,5,8,13,21...
+6. We have mobile phones numbered 1,2,3... Even numbered phones have 2 speakers and odd numbered phones have 1 speaker. Write a function which takes the number of phones and returns the total number of speakers.
+7. Sum of digits in an integer.
+8. Count the number of 5s in a given integer.
+9. Binary search 
